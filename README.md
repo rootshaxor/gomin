@@ -1,4 +1,4 @@
 # gomin
 Dashboard Admin Generator
 
-[] Dashboard 
+[ ] Dashboard 
